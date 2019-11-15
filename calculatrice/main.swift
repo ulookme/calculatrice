@@ -35,7 +35,7 @@ repeat {
     
     operateur = input()
     print("")
-    
+    // teste de commentaire en modification
     if (operateur > 0 && operateur < 6) {
         print(" Entrée le premier nombre :")
         nombre1 = input()
